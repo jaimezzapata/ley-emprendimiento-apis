@@ -1,0 +1,15 @@
+Api
+    SIEMPRE debe estar documentada
+
+REST - REST Full
+
+REST - Aplicación sencilla que permite el consumo de informacion
+REST Full - Aplicacion completa que permite el cosumo y manipulacion
+
+Asíncrono
+    Callbacks, Promesas
+        resolve y reject
+            resolve -> then
+            reject -> catch
+
+fetch -> API o un servicio que se comunica a una API para retornar contenido

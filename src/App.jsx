@@ -10,6 +10,10 @@ let router = createBrowserRouter([
   {
     path: "/usuarios",
     element: <Usuarios />,
+  },
+  {
+    path: '/',
+    element: <h1>Home</h1>
   }
 ]);
 
